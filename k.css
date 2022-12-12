@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+* {
+  font-family: 'Montserrat';
+}
+
+body, h1, h2 {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  min-width: fit-content;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 15px;
+  font-weight: lighter;
+  color:#bab9b9;
+  border-bottom: 1px solid #bab9b9;
+  margin-bottom: 16px;
+  padding-bottom: 5px;
+
+}
+
+img {
+  width: 400px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.name-text {
+  font-size: 17px;
+  color:#696868;
+  font-weight: bold;
+  font-style: italic
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(57, 53, 53);
+  color: white;
+  font-size: 12px;
+  padding:20px;
+}
+
+.mainbox {
+
+  width:610px;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #ebebeb;
+  padding: 30px;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.about-me-text {
+  text-align: left;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.title-text {
+  font-size: 11px;
+  font-weight: bold;
+  color: #282828;
+  float: left;
+}
+
+.year-text {
+  font-size: 11px;
+  font-weight: bold;
+  color: #282828;
+  float: right;
+}
+
+.float-wrap {
+  overflow: hidden;
+}
+
+.desc-text{
+  font-size: 9px;
+}
+
+
+.desc-subtext{
+  font-size: 9px;
+  color: #282828;
+  padding-left:16px;
+}
+
+.title-box {
+  text-align: right;
+}
+
+
+.sns-img {
+  width: 12px;
+  height: 12px;
+}
+
+.sns-wrap {
+  text-align: right;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+}
